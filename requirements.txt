@@ -1,0 +1,7 @@
+PyQt6
+vosk
+PyAudio
+comtypes
+edge-tts
+mss
+pipwin  # optional, useful on Windows to install PyAudio binaries
